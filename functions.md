@@ -81,3 +81,7 @@ Stillers Menu:
 Get a Discord Token
 
 Get Chrome passwords
+
+ChatID Check
+
+BSoD Proccess Protection
