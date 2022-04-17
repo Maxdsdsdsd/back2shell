@@ -85,3 +85,5 @@ Get Chrome passwords
 ChatID Check
 
 BSoD Proccess Protection
+
+Run as administrator
