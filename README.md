@@ -6,6 +6,10 @@ This program is designed to control a PC via Telegram.
 ## Functions:
 [Full list of current features](https://github.com/Maxdsdsdsd/back2shell/blob/main/functions.md)
 
+## Modules
+
+No need!
+
 ## How to use:
 
 Download the repository
@@ -13,10 +17,6 @@ Download the repository
 Go to FOLDER /files/
 
 Open the main.py file in any text editor.
-
-## Modules
-
-No need!
 
 
 ![Screenshot_3](https://user-images.githubusercontent.com/33353036/163717385-9cff617a-c62e-49b9-a47e-c69d8840f5b1.png)
